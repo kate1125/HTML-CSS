@@ -223,7 +223,7 @@ table {
     justify-content: space-around;
     top: 25%;
 }
-.form .botton{
+.form .button{
     position: absolute;
     color:white;
     background: #00cc99;
@@ -233,7 +233,7 @@ table {
     bottom: 10%;
     right: 3.5%;
 }
-.form .botton:hover{
+.form .button:hover{
     cursor: pointer;
 }
 .footer{
